@@ -1,0 +1,14 @@
+body{
+  background-image: url("https://wallpaperscraft.com/image/forest_trees_grass_fog_118451_1920x1080.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+.container{
+  text-align: center;
+}
+
+/*h1 ,h3{
+  color: white;
+}*/
